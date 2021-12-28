@@ -22,6 +22,3 @@ int main() {
     printf("e=%d\n", e);
     printf("請按任意鍵繼續 . . .");
 }
-© 2021 GitHub, Inc.
-Terms
-Pr
