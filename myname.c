@@ -2,6 +2,6 @@
 
 main() {
 
-    printf("謝孟洧");
+    printf("謝孟洧/n");
 }
 
