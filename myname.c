@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-main() {
-
+main() 
+{
     printf("謝孟洧\n");
 }
-
